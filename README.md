@@ -10,6 +10,7 @@ To use the program, simply run the batch file "AntiTitvirusHeboh.bat". The progr
 
 This code is not a functional antivirus program and is only intended for entertainment purposes. It is not recommended to run this code on your computer as it may cause harm to your files and system.
 
+So use it at your own risk.
 
 #2023 blankiefries
 
