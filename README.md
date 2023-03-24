@@ -1,6 +1,6 @@
 # Antititvirus Heboh
 
-This is a command-line antivirus program for Windows. The program scans all hard drives and files for viruses and malware and deletes any infected files found. However, this code is not a functional antivirus program but rather a prank that creates fake virus alerts and deletes important files.
+This is a command-line antivirus program for Windows. The program scans all hard drives and files for viruses and malware and deletes any infected files found. However, this code is not a functional antivirus program but rather a prank that creates fake virus alerts.
 
 # Usage
 
