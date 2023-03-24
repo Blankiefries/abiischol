@@ -1,16 +1,16 @@
-#Antititvirus Heboh
+# Antititvirus Heboh
 
-This is a command-line antivirus program for Windows created by ABIISCHOL. The program scans all hard drives and files for viruses and malware and deletes any infected files found. However, this code is not a functional antivirus program but rather a prank that creates fake virus alerts and deletes important files.
+This is a command-line antivirus program for Windows. The program scans all hard drives and files for viruses and malware and deletes any infected files found. However, this code is not a functional antivirus program but rather a prank that creates fake virus alerts and deletes important files.
 
-#Usage
+# Usage
 
-To use the program, simply run the batch file "AntiTitvirusHeboh.bat". The program will prompt the user to input whether they want to check for viruses or not. If the user chooses to check for viruses, the program will proceed with the fake virus scan and display fake virus alerts. It will then delete important files and create random files on the user's desktop. Finally, it will display a message informing the user that they have been pranked.
+To use the program, simply run the batch file "AntiTitvirusHeboh.bat". The program will prompt the user to input whether they want to check for viruses or not. If the user chooses to check for viruses, the program will proceed with the fake virus scan and display fake virus alerts.
 
-#Disclaimer
+# Disclaimer
 
-This code is not a functional antivirus program and is only intended for entertainment purposes. It is not recommended to run this code on your computer as it may cause harm to your files and system.
+This code is not a functional antivirus program and is only intended for entertainment purposes. It is not recommended to run this code on your computer, unless you are Pranking someone.
 
-So use it at your own risk.
+Best to be run on a school computer.
 
-#2023 blankiefries
+# 2023 blankiefries
 
